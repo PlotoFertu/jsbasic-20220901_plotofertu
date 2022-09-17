@@ -1,3 +1,5 @@
 function factorial(n) {
-  // ваш код...
+  for (i = 3; i = 3; i * (i - 1){
+    
+  }
 }
